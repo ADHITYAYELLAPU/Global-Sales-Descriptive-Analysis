@@ -128,12 +128,6 @@ Not consistently negative across all three regions, so it didn't qualify — but
 
 Bar charts generated in Alteryx per region, comparing 2022 vs 2023 by segment:
 
-| Region | Chart |
-|---|---|
-| APAC | `visuals/APAC_chart.pdf` |
-| Europe | `visuals/Europe_chart.pdf` |
-| USA | `visuals/USA_chart.pdf` |
-
 > Charts were produced using the **Interactive Chart tool** (grouped bar, 2022 = blue, 2023 = orange) and exported via the **Render tool** as PDF.
 
 ---
@@ -152,9 +146,7 @@ Challenge-449-Global-Sales-Analysis/
 │   └── result_part2_negative.png      ← Part 2 filtered output
 │
 └── visuals/
-    ├── APAC_chart.pdf
-    ├── Europe_chart.pdf
-    └── USA_chart.pdf
+
 ```
 
 ---
