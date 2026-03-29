@@ -1,6 +1,6 @@
-# Challenge 449 — Global Sales Analysis
+# Global Sales Analysis
 
-> **Alteryx Weekly Challenge** | Descriptive Analysis | Multi-Currency Data Pipeline
+> **Alteryx** | Descriptive Analysis | Multi-Currency Data Pipeline
 
 ---
 
