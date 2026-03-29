@@ -176,8 +176,6 @@ This project covers **Descriptive Analysis** — summarizing what happened in 20
 
 ## About
 
-Solved as part of the [Alteryx Community Weekly Challenges](https://community.alteryx.com/t5/Weekly-Challenge/bd-p/weeklychallenge) series.
-
 **Certification level targeted:** Core → Advanced
 
 **Skills demonstrated:** Data preparation, multi-currency joins, date parsing, pivot/crosstab, conditional filtering, report generation
